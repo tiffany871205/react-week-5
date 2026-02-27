@@ -5,10 +5,15 @@
 
 @import "bootstrap/scss/bootstrap";
 
+@import "./products.scss";
+
 html,
 body {
   height: 100%;
   text-align: center;
+  font-family:
+    Noto Sans TC,
+    sans-serif;
 }
 
 .login {
